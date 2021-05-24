@@ -17,7 +17,7 @@ https://www.facebook.com/nitishtiwari1510/
 
 
 LinkedIN:
-https://www.linkedin.com/feed/
+https://www.linkedin.com/mwlite/in/nitish-tiwari-20702b147
 
 
 GitHub:
