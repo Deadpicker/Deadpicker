@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Deadpicker
 - 👀 I’m interested in DevOps, Android Development, Web Development.
 - 🌱 I’m currently learning Dart for Fluterr.
-- 💞️ I’m looking to collaborate on Open Source.
+- 💞️ I’m looking to collaborate on Open Source, Android Development, Ethical Hacking.
 
 - 📫 How to reach me.
 
