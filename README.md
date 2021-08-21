@@ -8,7 +8,7 @@
 
 
 Instagram:
-https://www.instagram.com/nitish.jar/
+https://www.instagram.com/nitish.tiwari__/
 
 
 Facebook:
