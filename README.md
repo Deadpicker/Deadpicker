@@ -24,7 +24,7 @@ GitHub:
 https://github.com/Deadpicker/
 
 
-Hashcode:
+Hashnode:
 https://hashnode.com/@Deadpicker
 
 
