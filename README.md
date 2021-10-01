@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Deadpicker
 - 👀 I’m interested in DevOps, Android Development(Flutter), Web Development.
-- 🌱 I’m currently learning ReactNative.
+- 🌱 I’m currently learning Kubernnetes finding it interesting.
 - 💞️ I’m looking to collaborate on Open Source, Android Development, Ethical Hacking.
 
 - 📫 How to reach me.
